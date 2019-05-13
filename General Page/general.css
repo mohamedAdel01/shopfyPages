@@ -52,6 +52,7 @@ form{
     width: 107px;
     text-align: center;
     height: 20px;
+    font-weight: bold
 }
 input,textarea,select{
     width: 68%;
